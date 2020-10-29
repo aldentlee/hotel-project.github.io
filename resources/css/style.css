@@ -153,7 +153,7 @@ h2:after {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)),
-    url(/resources/css/img/hero.jpg);
+    url(img/hero.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -344,7 +344,7 @@ header {
 
 .section-testimonials {
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(/resources/css/img/blowingrock-back.jpeg);
+    url(img/blowingrock-back.jpeg);
   background-size: cover;
   color: #fff;
   background-attachment: fixed;
